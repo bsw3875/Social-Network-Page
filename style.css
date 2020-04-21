@@ -1,0 +1,58 @@
+body {
+    background-color: lightgray;
+}
+header {
+    width: 850px;
+    margin: 0 auto;
+}
+.big-blue-header {
+    height: 300px;
+    background-color: darkslateblue;
+    margin: auto;
+}
+.profile-photo {
+    height: 200px;
+    width: 200px;
+    position: relative;
+    top: 125px;
+    background-color: darkblue;
+    border: 2px solid deepskyblue;
+}
+.button-group {
+    position: relative;
+    top: 0px;
+    float: right;
+}
+.navbar {
+    position: absolute;
+    height: 100px;
+    width: 850px;
+    margin: auto;
+    background-color: white;
+    
+}
+main {
+    border: 1px dotted cyan;
+    height: 2000px;
+    width: 850px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+.column-left {
+    width: 328px;
+    height: 2000px;
+    border: 5px dotted darkslategrey;
+    float: left;
+    }
+.column-right {
+    width: 512px;
+    height: 2000px;
+    border: 5px dotted dodgerblue;
+    float: right;
+     
+} 
+.card {
+    width: 328px;
+    border-radius: 1.75px;
+}
+       
